@@ -1,0 +1,6 @@
+a = float(input("Ширина: 6"))
+b = float(input("Висота: 12"))
+print(({a}, {b}))
+print(({a}, {-b}))
+print(({-a}, {-b}))
+print(({-a}, {b}))
